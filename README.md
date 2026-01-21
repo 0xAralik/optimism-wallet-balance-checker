@@ -15,3 +15,5 @@ This project demonstrates how to read on-chain data using Optimism RPC.
 ```bash
 npm install
 node index.js
+## Example Output
+Balance on Optimism: 0.52 ETH
